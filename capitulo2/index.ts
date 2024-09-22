@@ -24,7 +24,7 @@ function ordenacaoPorSelecao(array: number[]): number[]{
     }
 
     return arrayCrescente;
-}
+}                                          
 
 const arrayOrdenado = ordenacaoPorSelecao(arrayNumeros);
 console.log(arrayOrdenado)
