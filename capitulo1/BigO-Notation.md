@@ -42,3 +42,22 @@ Mas se esse algoritmo é tão ruim basta utilizar outro, correto? Infelizmente n
 - A rapidez de um algoritmo não é medida em segundos
 - O tempo de execução de um algoritmo é medido por meio de seu crescimento
 - O tempo de execução dos algoritmos é expresso na notação Big O
+
+# Tempo de Execução
+
+A letra O nas fórmulas na verdade é uma constante de tempo de uma execução completa de um iteração.
+
+### Exemplo:
+- Pesquisa simples: *10ms *  n*
+- Pesquisa binária: *1s * log n*
+  
+  Vendo assim parece que a pesquisa simples é mais rapida que a pesquisa binária.
+  Vamos supor que estamos realizando uma busca em uma lista de 4 bilhões de elementos.
+ 
+```bash
+# Pesquisa simples
+10ms * 4 bilhões = 463 dias
+
+# Pesquisa binária
+1s * 32 = 32 segundos\
+```
