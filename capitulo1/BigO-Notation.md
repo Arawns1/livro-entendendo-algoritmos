@@ -42,3 +42,7 @@ Mas se esse algoritmo é tão ruim basta utilizar outro, correto? Infelizmente n
 - A rapidez de um algoritmo não é medida em segundos
 - O tempo de execução de um algoritmo é medido por meio de seu crescimento
 - O tempo de execução dos algoritmos é expresso na notação Big O
+
+# Tempo de Execução
+
+A letra O nas fórmulas na verdade é uma constante de tempo de uma execução completa de um iteração.

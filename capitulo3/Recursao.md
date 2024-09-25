@@ -19,8 +19,8 @@ function regressiva(i){
 ```
 
 ## A pilha (call-stack)
-Pilha -> LIFO, last in first out
+Pilha -> LIFO, last in first  out
 
 é uma polha com as instruções presentes no código
-Quando cvoê chama uma função, é adicionado na pilha.
+Quando vooê chama uma função, é adicionado na pilha.
 Logo, quando você adiciona uma função dentro de outra função a chamada de função fica pausada em um estado parcialmente completo.
